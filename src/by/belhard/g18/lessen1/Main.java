@@ -34,7 +34,6 @@ public class Main {
         System.out.println(2* p * r); // Длина окружности
         String v = "корректный ввод" ;
         System.out.println(v);
-
         int RX = 7;
         int RY = 8;
         System.out.println(RY);
