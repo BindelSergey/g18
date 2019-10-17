@@ -37,7 +37,7 @@ public class Main {
 
         int RX = 7;
         int RY = 8;
-
+        System.out.println(RY);
 
 
 
