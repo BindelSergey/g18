@@ -5,6 +5,6 @@ public class Building {
     public String address ;
     public boolean elevator;
     public String material ;
-    public int year_of_construction;
+    public int year_of_construction ;
 }
 
