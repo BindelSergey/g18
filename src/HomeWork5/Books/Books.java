@@ -12,4 +12,7 @@ public class Books {
         this.author = author;
         this.format = format;
     }
+    public String toString(){
+        return "Название кники"+ " "+name+" "+"количество страниц"+numberOfPages+" "+"Автор книги"+" "+author+" "+"формат книги"+" "+format;
+    }
 }
