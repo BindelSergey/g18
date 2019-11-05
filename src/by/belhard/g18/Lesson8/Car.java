@@ -10,5 +10,6 @@ public class Car {
         this.title = title;
         this.wheels = wheels;
         this.fuel = fuel;
+        System.out.println();
     }
 }
