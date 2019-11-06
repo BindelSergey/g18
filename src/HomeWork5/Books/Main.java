@@ -5,7 +5,7 @@ public class Main {
         Book book = new Book("Book 1", 5, "Serega", "A4");
         System.out.println(book.toString());
         System.out.println("===========================");
-        Book invalidBook = new Book("", -1, "", "fdvfvsd");
+        Book invalidBook = new Book("", -1, "", "12+");
         System.out.println(invalidBook.toString());
     }
 }
