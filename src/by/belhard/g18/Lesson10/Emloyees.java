@@ -6,5 +6,5 @@ import java.util.Date;
 public class Emloyees {
     private int id;
     private String  name;
-
+transient
 }
